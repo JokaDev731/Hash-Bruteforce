@@ -22,8 +22,8 @@ pip install pycryptodome
 1. Clone the repository or download the script.
 
 ```sh
-git clone https://github.com/your-repo/hash-bruteforce.git
-cd hash-bruteforce
+git clone https://github.com/your-repo/hash-bruteforce.git](https://github.com/JokaDev731/Hash-Bruteforce.git
+cd Hash-Bruteforce
 ```
 
 2. Run the script using the following command:
@@ -70,8 +70,8 @@ Utilisation
 
 Clonez le dépôt ou téléchargez le script.
 
-git clone https://github.com/votre-repo/hash-bruteforce.git
-cd hash-bruteforce
+git  clone https://github.com/JokaDev731/Hash-Bruteforce.git
+cd Hash-Bruteforce
 
 Exécutez le script avec la commande suivante :
 
