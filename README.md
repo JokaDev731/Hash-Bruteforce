@@ -64,19 +64,23 @@ Avant d'exécuter le script, assurez-vous d'avoir Python installé ainsi que la 
 
 Installation de pycryptodome
 
+```sh
 pip install pycryptodome
+```
 
 Utilisation
 
 Clonez le dépôt ou téléchargez le script.
 
+```sh
 git  clone https://github.com/JokaDev731/Hash-Bruteforce.git
 cd Hash-Bruteforce
-
+```
 Exécutez le script avec la commande suivante :
 
+```sh
 python hash_bruteforce.py
-
+```
 Entrez le hash à casser lorsque le script vous le demande.
 
 Le script testera plusieurs algorithmes de hachage et tentera de retrouver la valeur originale du hash.
